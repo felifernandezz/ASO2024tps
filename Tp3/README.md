@@ -7,5 +7,6 @@ C) Lo que paso fue que al descomentar las lineas, el tiempo de ejecucion fue muc
 <a href="./race_condition/on_race_condition.c">
 puzzle resuelto.</a>
 
+
 <h2>2B <h2>
 <img src="./captura2comensales.png">
