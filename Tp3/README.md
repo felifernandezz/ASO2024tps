@@ -9,4 +9,4 @@ puzzle resuelto.</a>
 
 
 <h2>2B <h2>
-<img src="./COMENZAL2.png">
+<img src="COMENZAL 2.png">
