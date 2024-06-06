@@ -2,7 +2,7 @@
 
 B) Compare con dos comapañeros y en todas las ejecuciones son distintos los tiempos.
 
-C) Lo que paso fue que al descomentar las lineas, el tiempo de ejecucion fue mucho mas lento, ya que al usar bucle for.
+C) Cuando se ejecuta el archivo sin los #, hace que los procesos sumador y restador, modifiquen la misma variable "acumulador" al mismo tiempo. Esto causa problemas porque ambos procesos intentan acceder a la misma variable al mismo tiempo. Pero si las líneas están comentadas, los procesos se ejecutan uno despues del otro, eludiendo el problema.
 <h2> 2A <h2>
 <a href="./race_condition/on_race_condition.c">
 puzzle resuelto.</a>
